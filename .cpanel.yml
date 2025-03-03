@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export GIT_WORK_TREE=/home/trepcamp/public_html/e.digital/test/QRlector
+    - git --work-tree=$GIT_WORK_TREE --git-dir=/home/trepcamp/public_html/e.digital/test/QRlector/.git checkout -f
