@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Qr lector Emtech TEST</title>
+    <title>Qr lector Emtech TEST para ver si jalan las CD/CI</title>
 </head>
 <body>
 
